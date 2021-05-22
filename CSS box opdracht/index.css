@@ -1,0 +1,16 @@
+.black{
+    border: 5px solid blue;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.center-title{
+    color: blue;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.navigation-links li{
+    display: inline;
+    margin: 10px;
+}
